@@ -1,10 +1,10 @@
 <?php
 
-$sname= "db4free.net";
-$unmae= "hyperdevweb";
-$password = "Nilslahme123";
+$sname= "#";
+$unmae= "#";
+$password = "#";
 
-$db_name = "hyperdevweb";
+$db_name = "#";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
